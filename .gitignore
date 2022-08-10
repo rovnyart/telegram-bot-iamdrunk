@@ -1,0 +1,4 @@
+.vscode
+db.json
+.env
+node_modules
