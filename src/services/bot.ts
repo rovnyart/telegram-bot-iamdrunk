@@ -97,7 +97,7 @@ export class TelegramService {
       await ctx.replyWithHTML(
         [
           `👋👋👋`,
-          `Hi, I'm DrunkBot!`,
+          `Hi, this is IamDrunkBot!`,
           'You can use me every time you feel you gonna write some <i>really wrong</i> things to your chats.',
           '',
           'To register me, enter "/start" command (you must have admin rights in current chat).',
